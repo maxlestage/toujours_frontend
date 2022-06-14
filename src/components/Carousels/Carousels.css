@@ -1,0 +1,9 @@
+div.carousel-indicators {
+  display: none !important;
+}
+span.carousel-control-prev-icon {
+  display: none !important;
+}
+span.carousel-control-next-icon {
+  display: none !important;
+}

@@ -8,7 +8,6 @@ function Hero() {
       <Row>
         <Col>
           <img
-            fluid
             className="d-block w-100 logo_resize logo_position"
             src={logo}
             alt="First slide"

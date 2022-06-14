@@ -1,10 +1,10 @@
 import Hero from "../../components/Hero/Hero.jsx";
-import TwoCarousels from "../../components/Carousels/TwoCarousels.jsx";
+import Carousels from "../../components/Carousels/Carousels.jsx";
 function Body() {
   return (
     <>
       <Hero />
-      <TwoCarousels />
+      <Carousels />
     </>
   );
 }
