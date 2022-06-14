@@ -1,6 +1,5 @@
 import Hero from "./Hero";
-
-import TwoCarousels from "./TwoCarousels";
+import TwoCarousels from "../../components/Carousels/TwoCarousels.jsx";
 function Body() {
   return (
     <>

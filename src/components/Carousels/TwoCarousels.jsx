@@ -1,6 +1,6 @@
 import { Row, Col } from "react-bootstrap";
 import "./TwoCarousels.css";
-import Carousels from "./Carousels";
+import Carousels from "../../components/Carousels/Carousels";
 function TwoCarousels() {
   return (
     <>
